@@ -1,11 +1,16 @@
 # 🔱 Learning Quantum Computing notebook
+Starting my learning journey on Quantum Computing. I follow the textbook "Introduction to Quantum Computing". Below you'll find the book details.
 
 ## Introduction to Quantum Computing
 **From a Layperson to a Programmer in 30 Steps**
-Author: Hiu Yung Wong
-DOI: https://doi.org/10.1007/978-3-031-36985-8
-eBook ISBN: 978-3-031-36985-8 
-Published: 07 September 2023
+
+**Author**: Hiu Yung Wong
+
+**DOI**: https://doi.org/10.1007/978-3-031-36985-8
+
+**eBook ISBN**: 978-3-031-36985-8 
+
+**Published**: 07 September 2023
 
 ### About this book
 This textbook introduces quantum computing to readers who do not have much background in linear algebra based on the self-study experience of the author as an engineer. The author targets undergraduate and master students who are willing to spend about 60 -90 hours seriously learning quantum computing. This book is also suitable for self-study and teaching videos for each chapter and more than 200 exercises with answers are provided. Readers will be able to write their program to simulate quantum computing algorithms and run on real quantum computers on IBM-Q. Moreover, unlike books that only give superficial, “hand-waving” explanations, this book uses exact formalism so readers can continue to pursue more advanced topics based on what they learn from this book
