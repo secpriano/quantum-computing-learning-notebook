@@ -19,7 +19,7 @@ This textbook introduces quantum computing to readers who do not have much backg
 - [x] 1. The Most Important Step to Understand Quantum Computing
 - [x] 2. First Impression
 - [x] 3. Basis, Basis Vectors, and Inner Product
-- [ ] 4. Orthonormal Basis, Bra–Ket Notation, and Measurement
+- [x] 4. Orthonormal Basis, Bra–Ket Notation, and Measurement
 - [ ] 5. Changing Basis, Uncertainty Principle, and Bra–Ket Operations
 - [ ] 6. Observables, Operators, Eigenvectors, and Eigenvalues I
 - [ ] 7. Pauli Spin Matrices, Adjoint Matrix, and Hermitian Matrix
